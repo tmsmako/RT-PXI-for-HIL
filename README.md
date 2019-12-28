@@ -17,6 +17,12 @@ https://lxistandard.org/Documents/Papers/LXI%20Reference%20Design%20Overview%201
 
 To get access to the LXI Reference Design contact Bob Helsel at execdir@lxistandard.org.
 
+JKI state machine templates
+https://github.com/JKISoftware/JKI-State-Machine-Objects
+https://github.com/JKISoftware/JKI-State-Machine
+
+
+
 
 
 
