@@ -2,6 +2,8 @@
 NI led Training on Actor based design: http://www.ni.com/product-documentation/53138/en/
 Training catalog: http://www.ni.com/pdf/training/us/20831_Catalog_wr.pdf
 
+# Design patterns
+https://labviewwiki.org/wiki/Design_Patterns_Overview
 
 # Actor Framework
 Matt Pollock's AF example: https://bitbucket.org/pollockm/starbuzz/src/default/
