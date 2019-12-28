@@ -10,6 +10,9 @@ HiSLIP lib implemented in C / LXI tools
 https://github.com/lxi-tools/libhislip
 https://lxi-tools.github.io/
 
+LXI reference design review
+https://lxistandard.org/Documents/Papers/LXI%20Reference%20Design%20Overview%2016MAR2016.pdf
+
 
 
 
