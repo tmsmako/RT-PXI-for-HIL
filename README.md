@@ -1,5 +1,7 @@
 # RT-PXI-as-LXI
 
+https://en.wikipedia.org/wiki/LAN_eXtensions_for_Instrumentation
+
 Introduction to HiSLIP 
 https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_application/application_notes/1ma208/1MA208_2e_HiSLIP.pdf
 
@@ -12,6 +14,8 @@ https://lxi-tools.github.io/
 
 LXI reference design review
 https://lxistandard.org/Documents/Papers/LXI%20Reference%20Design%20Overview%2016MAR2016.pdf
+
+To get access to the LXI Reference Design contact Bob Helsel at execdir@lxistandard.org.
 
 
 
