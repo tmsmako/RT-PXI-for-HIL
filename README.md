@@ -2,6 +2,7 @@
 NI led Training on Actor based design: http://www.ni.com/product-documentation/53138/en/
 Training catalog: http://www.ni.com/pdf/training/us/20831_Catalog_wr.pdf
 
+
 # Actor Framework
 Matt Pollock's AF example: https://bitbucket.org/pollockm/starbuzz/src/default/
 Discussion: https://forums.ni.com/t5/Actor-Framework-Discussions/Asynchronous-Messaging-explained-as-a-coffee-shop/td-p/3439197/page/2?profile.language=en
