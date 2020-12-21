@@ -2,7 +2,7 @@
 
 # 1. Run cyclictest
 # cyclictest -l100000000 -m -Sp90 -i200 -h400 -q >output 
-cyclictest -l1000000 -m -Sp90 -i200 -h400 -q >output 
+# cyclictest -l1000000 -m -Sp90 -i200 -h400 -q >output 
 
 # 2. Get maximum latency
 max=`grep "Max Latencies" output | tr " " "\n" | sort -n | tail -1 | sed s/^0*//`
@@ -13,8 +13,7 @@ grep -v -e "^#" -e "^$" output | tr " " "\t" >histogram
 # 4. Set the number of cores, for example
 cores=4
 
-# 5. Create two-column data sets with latency classes and frequency values for each core, 
-for example
+# 5. Create two-column data sets with latency classes and frequency values for each core
 for i in `seq 1 $cores`
 do
   column=`expr $i + 1`

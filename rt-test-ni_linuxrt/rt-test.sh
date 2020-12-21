@@ -12,8 +12,7 @@ grep -v -e "^#" -e "^$" output | tr " " "\t" >histogram
 # 4. Set the number of cores, for example
 cores=4
 
-# 5. Create two-column data sets with latency classes and frequency values for each core, 
-for example
+# 5. Create two-column data sets with latency classes and frequency values for each core
 for i in `seq 1 $cores`
 do
   column=`expr $i + 1`
