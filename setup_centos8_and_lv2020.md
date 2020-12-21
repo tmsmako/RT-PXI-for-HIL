@@ -67,12 +67,15 @@ sudo dkms autoinstall
 ## Integrate AD account
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/windows_integration_guide/introduction
 SSSD should be the right way to go, need to check this with IT
-https://tylersguides.com/guides/configure-sssd-for-ldap-on-centos-7/
+https://sssd.io/docs/users/ldap_with_ad.html
 
 ## Cent OS 8 real-time kernel
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_for_real_time/8/html/installation_guide/index
 
 ## Cent OS 8 kernel update
 https://vitux.com/how-to-upgrade-the-kernel-on-centos-8-0/
+
+## Known issues
+Partial support for Pickering modules (PILPXI only)
 
 
