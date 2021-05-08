@@ -24,7 +24,6 @@ gsettings set org.gnome.desktop.interface enable-animations false
 ## Install NI LabVIEW 2020
 1. Download LabVIEW 2020 for Linux
 https://www.ni.com/hu-hu/support/downloads/software-products/download.labview.html#344888
-(requires an account associated with an active SSP subscription)
 LabVIEW 2020 for Linux readme - https://www.ni.com/pdf/manuals/374718n.html
 2. Convert packages for Ubuntu with alien
 * Mount lv2020pro-linux-mac.iso
