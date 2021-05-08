@@ -1,1 +1,1 @@
-LabVIEW performance test on NI Linux-RT vs. CentOS 8
+LabVIEW 2020 performance test on NI Linux-RT vs. CentOS 8
